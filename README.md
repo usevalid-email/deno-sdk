@@ -8,10 +8,10 @@ Validate Your Emails with Confidence
 
 ## Installation
 
-You can install the package via npm:
+You can install the package via deno.land/x:
 
 ```bash
-deno install --allow-net --allow-read --unstable -n usevalid-email https://deno.land/x/usevalid_email_sdk/mod.ts
+deno install --allow-net --allow-read --unstable -n usevalid-email https://deno.land/x/usevalid_email_sdk/main.ts
 ```
 
 ## Usage
